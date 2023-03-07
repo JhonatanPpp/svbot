@@ -3,8 +3,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['51955336417', 'Angel', true],
-  ['5492622271736'], 
+  ['51955336417', '@𝒍𝒚𝒕𝒛_𝒐𝒇𝒊𝒄𝒊𝒂𝒍', true],
+  ['51936402349'], 
   ['5492622271736'] 
 ] //Numeros de owner 
 
@@ -25,13 +25,13 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'DyLux┃ᴮᴼᵀ' 
-global.author = '@fg98' 
-global.fgig = '▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98_ff\n' 
-global.dygp = 'https://chat.whatsapp.com/IO9jmpI72ejHiN4unRZleU'
-global.fgsc = 'https://github.com/FG98F/dylux-fg' 
-global.fgyt = 'https://youtube.com/fg98f'
-global.fgpyp = 'https://paypal.me/fg98f'
+global.packname = '@𝒍𝒚𝒕𝒛_𝒐𝒇𝒊𝒄𝒊𝒂𝒍' 
+global.author = '@𝒍𝒚𝒕𝒛_𝒐𝒇𝒊𝒄𝒊𝒂𝒍' 
+global.fgig = '▢ Sígueme en Instagram\nhttps://www.instagram.com/lytz_oficial\n' 
+global.dygp = 'https://chat.whatsapp.com/LBL3QA0JywLAAqHWrssF27'
+global.fgsc = 'https://github.com/JhonatanPpp/botmmm' 
+global.fgyt = 'https://youtube.com/lytzzzz_ff'
+global.fgpyp = 'https://paypal.me/'
 global.fglog = 'https://i.imgur.com/Owmb93c.png' 
 
 global.wait = '*⌛ _Cargando..._*\n*▰▰▰▱▱▱▱▱*'
